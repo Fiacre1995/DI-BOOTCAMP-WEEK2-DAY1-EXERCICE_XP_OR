@@ -1,3 +1,4 @@
+debugger;
 /*Exercice 1 */
 let sentence = ["my","favorite","color","is","blue"];
 rejoindre =sentence.toString();
@@ -20,3 +21,4 @@ alert(`Vous avez entrer ${num2} `);
 num2 =parseInt(num2);
 Somme = num1+num2;
 alert("la somme de nombre 1 et é est : " + Somme );
+
